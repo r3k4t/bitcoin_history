@@ -28,13 +28,14 @@ Pass the copied address to the history function.as shown in the following code,a
 <br>
 ...
 <br>
-Title - Bitcoin Transaction HIstory
+Title - Bitcoin Transaction History
 <br>
 This program demonstrates listing history of a bitcoin address.
 <br>
 ...
 
 #import bitcoin
+<br>
 from bitcoin import *
 
 #view address transaction history
