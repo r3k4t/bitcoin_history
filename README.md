@@ -12,7 +12,7 @@
 
 To install the Pi Bitcoin tools library,open the command-line program and execute the following command:
 
-<u>
+<ul>
 <li>sudo pip install bitcoin</li>
 <li>or</li>
 <li>sudo apt install python-bitcoin<li>
