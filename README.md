@@ -37,6 +37,7 @@ from bitcoin import *
 #view address transaction history
 
 a_vaild_bitcoin_address = '35hK24tcLEWcgNA4JxpvbkNkoAcDGqQPsP'
+<br>
 print(history(a_vaild_bitcoin_addres))
 
 ![Screenshot at 2020-09-29 06-30-10](https://user-images.githubusercontent.com/69615463/94502335-85638400-0221-11eb-8242-17db4c98ee22.png)
