@@ -25,10 +25,13 @@ You can also look preexisting bitcoin addresses transactional history.We will fi
 Pass the copied address to the history function.as shown in the following code,along with the output to get the history of bitcoin address,including the transactional information :
 
 #!/usr/bin/python
+<br>
 ...
+<br>
 Title - Bitcoin Transaction HIstory
-
+<br>
 This program demonstrates listing history of a bitcoin address.
+<br>
 ...
 
 #import bitcoin
