@@ -28,7 +28,7 @@ Pass the copied address to the history function.as shown in the following code,a
 ...
 Title - Bitcoin Transaction HIstory
 
-This programdemonstrates listing history of a bitcoin address.
+This program demonstrates listing history of a bitcoin address.
 ...
 
 #import bitcoin
