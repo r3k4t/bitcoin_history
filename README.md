@@ -18,7 +18,7 @@ To install the Pi Bitcoin tools library,open the command-line program and execut
 <li>sudo apt install python-bitcoin</li>
 </ul>
 
-You can also look preexisting bitcoin addresses transactional history.We will first get a valid address from <a href = "https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html">https://bitinfocharts.com</a>.The following screenshot shows the copied address of bitcoin block :
+You can also look preexisting bitcoin addresses transactional history.We will first get a valid address from <a href = "https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html"> https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html</a>.The following screenshot shows the copied address of bitcoin block :
 
 ![Screenshot at 2020-09-29 06-32-44](https://user-images.githubusercontent.com/69615463/94502247-5d742080-0221-11eb-882b-228fa057a605.png)
 
